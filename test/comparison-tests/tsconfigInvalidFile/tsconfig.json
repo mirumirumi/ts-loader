@@ -1,9 +1,0 @@
-{
-	"compilerOptions": {
-			"sourceMap": true
-	},
-	"files": [
-        "i-am-a-file-what-does-not-exist.ts",
-        "app.ts"
-    ]
-}

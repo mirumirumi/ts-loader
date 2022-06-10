@@ -1,9 +1,0 @@
-{
-	"compilerOptions": {
-		
-	},
-	"files": [
-		"require.d.ts",
-		"globals.d.ts"
-	]
-}

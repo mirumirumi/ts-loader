@@ -1,3 +1,0 @@
-Thing.doSomething();
-
-export = 'dep';
